@@ -217,8 +217,8 @@ models:
     portfolio:
         type: page
         urlPath: /portafolio
-        label: Portfolio
-        layout: portfolio
+        label: Portafolio
+        layout: portafolio
         file: portafolio/index.md
         hideContent: true
         singleInstance: true
